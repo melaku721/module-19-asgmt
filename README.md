@@ -1,5 +1,5 @@
 # module-19-asgmt
-###Fintech Finder Application 
+### Fintech Finder Application 
 
 As shown in theses images below we can see the Fintech professionals list with
 their name, ether address, rating and their hourly rate.
