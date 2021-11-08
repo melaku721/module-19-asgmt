@@ -33,6 +33,11 @@ the validated transaction hash is shown.
 ![](fintechfinderapp-scrshot/FFAscsh7.jpg)
 ![](fintechfinderapp-scrshot/FFAscsh8.jpg)
 
+## A screen recording shows how Fintech Finder App works
+
+https://user-images.githubusercontent.com/85697599/140682994-94aab250-d694-4c8a-adf3-bdce555eb063.mp4
+
+
 
 ## Etherscan Kovan Testnet Network Transaction Images 
 
