@@ -32,3 +32,12 @@ the validated transaction hash is shown.
 
 ![](fintechfinderapp-scrshot/FFAscsh7.jpg)
 ![](fintechfinderapp-scrshot/FFAscsh8.jpg)
+
+
+## Etherscan Kovan Testnet Network Transaction Images 
+
+![](EtherscanScreenshot/EtherscanScsh1.png)
+![](EtherscanScreenshot/EtherscanTx1Scsh.png)
+![](EtherscanScreenshot/EtherscanTx2Scsh.png)
+
+
